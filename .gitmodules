@@ -1,0 +1,15 @@
+[submodule "nodejs-httpp"]
+	path = nodejs-httpp
+	url = https://github.com/InstantWebP2P/nodejs-httpp
+[submodule "electron-httpp"]
+	path = electron-httpp
+	url = https://github.com/InstantWebP2P/electron-httpp
+[submodule "appnet.link"]
+	path = appnet.link
+	url = https://github.com/InstantWebP2P/appnet.link
+[submodule "appnet.link-controller"]
+	path = appnet.link-controller
+	url = https://github.com/InstantWebP2P/appnet.link-controller
+[submodule "forward-proxy"]
+	path = forward-proxy
+	url = https://github.com/InstantWebP2P/node-forward-proxy
